@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SCS",
+        "CGC",
+        "SCS"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:clay_ball"
+        },
+		
+		"G":
+        {
+            "item": "minecraft:gravel"
+        },
+		
+		"S":
+        {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:tar",
+        "count": 1
+    }
+}

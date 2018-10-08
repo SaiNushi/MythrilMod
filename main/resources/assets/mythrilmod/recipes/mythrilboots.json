@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mythrilmod:mythril_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:mythril_boots",
+        "count": 1
+    }
+}

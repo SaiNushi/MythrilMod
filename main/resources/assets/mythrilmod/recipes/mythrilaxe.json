@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "II",
+        "IS",
+        " S"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mythrilmod:mythril_ingot"
+        },
+		
+		"S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:mythril_axe",
+        "count": 1
+    }
+}

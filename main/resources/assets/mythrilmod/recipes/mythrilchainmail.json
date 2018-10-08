@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mythrilmod:mythril_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:mythril_chainmail",
+        "count": 1
+    }
+}

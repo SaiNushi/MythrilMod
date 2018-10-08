@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+		"SDS",
+		"SSS"
+
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+		
+		"D":
+        {
+            "item": "minecraft:dye",
+			"data": 13
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:raz_stone",
+        "count": 8
+    }
+}

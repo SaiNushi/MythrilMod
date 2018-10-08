@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+      {
+        "item": "minecraft:dye",
+		"data": 15
+      },
+	  {
+		"item": "mythrilmod:tan_dye"
+	  }
+    ],
+    
+    "result":
+    {
+        "item": "mythrilmod:beige_dye",
+        "count": 2
+    }
+}

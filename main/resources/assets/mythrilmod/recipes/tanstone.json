@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+		"SDS",
+		"SSS"
+
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+		
+		"D":
+        {
+            "item": "mythrilmod:tan_dye"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:tan_stone",
+        "count": 8
+    }
+}

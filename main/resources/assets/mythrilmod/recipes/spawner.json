@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+		"BBB"
+    ],
+    
+    "key":
+    {
+		"B":
+		{
+			"item": "minecraft:iron_bars"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:mob_spawner",
+        "count": 1
+    }
+}
