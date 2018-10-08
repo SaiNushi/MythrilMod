@@ -1,0 +1,46 @@
+//ITEMS
+item.mythril_ingot.name=Mythril Ingot
+item.mythril_nugget.name=Mythril Nugget
+
+item.beige_dye.name=Beige Coloring
+item.cream_dye.name=Cream Coloring
+item.tan_dye.name=Tan Coloring
+
+//TOOLS
+item.mythril_sword.name=Mythril Sword
+item.mythril_shovel.name=Mythril Shovel
+item.mythril_pickaxe.name=Mythril Pickaxe
+item.mythril_axe.name=Mythril Axe
+item.mythril_hoe.name=Mythril Hoe
+
+//ARMOR
+item.mythril_helmet.name=Mythril Helmet
+item.mythril_chainmail.name=Mythril Chain Mail
+item.mythril_leggings.name=Mythril Leggings
+item.mythril_boots.name=Mythril Boots
+
+
+//BLOCKS
+tile.mythril_block.name=Mythril Block
+tile.mythril_ore.name=Mythril Ore
+tile.black_marble.name=Black Marble
+tile.green_marble.name=Green Marble
+tile.marble.name=Marble
+tile.tar.name=Tar
+
+tile.beige_stone.name=Beige Stone
+tile.black_stone.name=Black Stone
+tile.blue_stone.name=Blue Stone
+tile.cream_stone.name=Cream Stone
+tile.dark_stone.name=Dark Stone
+tile.green_stone.name=Green Stone
+tile.purple_stone.name=Purple Stone
+tile.rouge_stone.name=Rouge Stone
+tile.tan_stone.name=Tan Stone
+tile.white_stone.name=White Stone
+tile.brown_stone.name=Brown Stone
+tile.cyan_stone.name=Cyan Stone
+tile.raz_stone.name=Raspberry Stone
+
+//TABS
+itemGroup.mythriltab=Mythril Mod

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mythrilmod",
+  "name": "Mythril Mod",
+  "description": "A mod that adds mythril (the mythical kind) and building materials. Note: raspberry is shortened to raz in the code.",
+  "version": "1.0.a",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SaiNushi"],
+  "credits": "Loremaster's tutorial, Harry's Tech Reviews tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
