@@ -44,5 +44,25 @@ Adds a couple vanilla recipes
 TO DO
 
     -add stairs and slabs for mod's blocks
+    
     -add spawn egg recipes (need help, data doesn't work for eggs)
+    
     -add slabs to blocks recipes
+    
+    -add duplication machine
+    
+    -add storage system
+    
+    -add shears progressions
+    
+    -add fishing rod progressions
+    
+    -add bow progressions
+    
+    -add shield progressions
+    
+    -add deconstructor
+    
+    -add desmelter
+    
+    -add portable crafters (crafting table, deconstructor, enchanting table, anvil, furnace)
