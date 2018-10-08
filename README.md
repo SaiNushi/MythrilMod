@@ -1,7 +1,7 @@
 # MythrilMod
 My First Mod
 
-v 1.0.a
+v 1.0.1a
 
 Adds mythril
 
