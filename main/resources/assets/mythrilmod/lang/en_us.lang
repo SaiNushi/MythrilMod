@@ -6,12 +6,22 @@ item.beige_dye.name=Beige Coloring
 item.cream_dye.name=Cream Coloring
 item.tan_dye.name=Tan Coloring
 
+item.blank_head.name=Blank Head
+item.chainmail_piece.name=Chain Piece
+item.elytra_piece.name=Elytra Piece
+
 //TOOLS
 item.mythril_sword.name=Mythril Sword
 item.mythril_shovel.name=Mythril Shovel
 item.mythril_pickaxe.name=Mythril Pickaxe
 item.mythril_axe.name=Mythril Axe
 item.mythril_hoe.name=Mythril Hoe
+
+item.mythril_shears.name=Mythril Shears
+item.wooden_shears.name=Wooden Shears
+item.stone_shears.name=Stone Shears
+item.diamond_shears.name=Diamond Shears
+item.gold_shears.name=Gold Shears
 
 //ARMOR
 item.mythril_helmet.name=Mythril Helmet
