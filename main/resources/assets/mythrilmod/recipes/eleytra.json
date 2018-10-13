@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WSW",
+		"W W"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "mythrilmod:elytra_piece"
+        },
+		"S":
+		{
+			"item": "minecraft:stick"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

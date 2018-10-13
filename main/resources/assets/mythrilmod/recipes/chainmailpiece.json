@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+		"III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:chainmail_piece",
+        "count": 1
+    }
+}

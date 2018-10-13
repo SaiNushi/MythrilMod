@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"BCB",
+		"SHS",
+		"BCB"
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "mythrilmod:blank_head"
+        },
+		"B":
+		{
+			"item": "minecraft:bone"
+		},
+		"C":
+		{
+			"item": "minecraft:coal",
+			"data": 0
+		},
+		"S":
+		{
+			"item": "minecraft:stone_sword"
+		}
+		
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 1,
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"III",
+		"IHI",
+		"III"
+		],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+		"H":
+		{
+			"item": "mythrilmod:blank_head"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 3,
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I",
+        "I "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:diamond_shears",
+        "count": 1
+    }
+}

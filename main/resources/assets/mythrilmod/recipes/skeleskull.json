@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"BBB",
+		"BHB",
+		"BBB"
+    ],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "mythrilmod:blank_head"
+        },
+		"B":
+		{
+			"item": "minecraft:bone"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 0,
+        "count": 1
+    }
+}

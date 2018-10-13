@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mythrilmod:chainmail_piece"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:chainmail_boots",
+        "count": 1
+    }
+}

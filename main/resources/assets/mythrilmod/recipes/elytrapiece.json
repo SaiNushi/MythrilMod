@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"SFS",
+		"LDL",
+		"SFS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+		"F":
+		{
+			"item": "minecraft:feather"
+		},
+		"L":
+		{
+			"item": "minecraft:leather"
+		},
+		"D":
+		{
+			"item": "minecraft:dragon_breath"
+		}
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:elytra_piece",
+        "count": 1
+    }
+}

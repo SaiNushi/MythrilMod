@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"RRR",
+		"RHR",
+		"RRR"
+		],
+    
+    "key":
+    {
+        "H":
+        {
+            "item": "mythrilmod:blank_head"
+        },
+		"R":
+		{
+			"item": "minecraft:rotten_flesh"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 2,
+        "count": 1
+    }
+}

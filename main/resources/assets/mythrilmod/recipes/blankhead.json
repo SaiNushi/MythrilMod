@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        " I ",
+		"III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:bone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mythrilmod:blank_head",
+        "count": 1
+    }
+}

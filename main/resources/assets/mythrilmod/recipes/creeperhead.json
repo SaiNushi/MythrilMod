@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"GGG",
+		"GHG",
+		"GGG"
+		],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gunpowder"
+        },
+		"H":
+		{
+			"item": "mythrilmod:blank_head"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 4,
+        "count": 1
+    }
+}

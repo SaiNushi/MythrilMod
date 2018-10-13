@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"DDD",
+		"DHD",
+		"DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:dragon_breath"
+        },
+		"H":
+		{
+			"item": "mythrilmod:blank_head"
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:skull",
+		"data": 5,
+        "count": 1
+    }
+}
